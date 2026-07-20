@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张红斌 (RiDDLE) 的个人主页"
+title: "张红斌 (Hongbin Zhang) 的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
